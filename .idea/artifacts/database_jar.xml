@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="database:jar">
+    <output-path>$PROJECT_DIR$/.idea/out/artifacts/database_jar</output-path>
+    <root id="root">
+      <element id="archive" name="database.jar">
+        <element id="module-output" name="database" />
+      </element>
+      <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml:3.12" />
+      <element id="library" level="project" name="Maven: org.apache.poi:poi:3.12" />
+      <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml-schemas:3.12" />
+      <element id="library" level="project" name="Maven: stax:stax-api:1.0.1" />
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.9" />
+      <element id="library" level="project" name="Maven: org.apache.xmlbeans:xmlbeans:2.6.0" />
+      <element id="library" level="project" name="Maven: org.xerial:sqlite-jdbc:3.8.11.2" />
+    </root>
+  </artifact>
+</component>

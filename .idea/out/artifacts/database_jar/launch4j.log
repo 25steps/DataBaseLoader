@@ -1,0 +1,22 @@
+
+
+Version:	3.12
+CmdLine:	D:\Jb_idea_java\git repo\mavenexp\.idea\out\artifacts\database_jar\database.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Jb_idea_java\git repo\mavenexp\.idea\out\artifacts\database_jar\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	C:\Program Files\Java\jre1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Main class:	TableViewDemo
+Add classpath:	poi-ooxml-3.12.jar
+Add classpath:	poi-3.12.jar
+Add classpath:	poi-ooxml-schemas-3.12.jar
+Add classpath:	stax-api-1.0.1.jar
+Add classpath:	commons-codec-1.9.jar
+Add classpath:	xmlbeans-2.6.0.jar
+Add classpath:	sqlite-jdbc-3.8.11.2.jar
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-classpath "D:\Jb_idea_java\git repo\mavenexp\.idea\out\artifacts\database_jar\database.exe;poi-ooxml-3.12.jar;poi-3.12.jar;poi-ooxml-schemas-3.12.jar;stax-api-1.0.1.jar;commons-codec-1.9.jar;xmlbeans-2.6.0.jar;sqlite-jdbc-3.8.11.2.jar" TableViewDemo
+Args length:	250/32768 chars
+Exit code:	0
